@@ -1,6 +1,5 @@
 - git & github
 - rest api
+- css & tailwind
 - react
 - next
-- python 
-  - django
