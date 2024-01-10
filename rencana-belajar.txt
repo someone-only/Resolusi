@@ -1,5 +1,5 @@
 - git & github
 - rest api
 - css & tailwind
-- react
-- next
+- Vue
+- Nuxt
